@@ -1,4 +1,4 @@
-package com.example.boardwithspringboot.domain;
+package com.boardwithspringboot.domain;
 
 import java.time.LocalDateTime;
 
